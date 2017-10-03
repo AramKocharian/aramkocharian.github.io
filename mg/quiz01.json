@@ -2,17 +2,20 @@
   "questions" : [
      {
         "question_id" : 1,
+		"type" : 0,
         "question" : "Complete the sentence: 'I came, I saw, ...'.",
         "answers" : ["I fell", "I lost", "I ran way", "I conquered"]
      },
      {
         "question_id" : 2,
+		"type" : 1,
         "question" : "Who is on the picture?",
 		"image_question" : "https://raw.githubusercontent.com/AramKocharian/aramkocharian.github.io/master/mg/quiz01/question02/image_question.jpg"
         "answers" : ["Robert De Niro", "Martin Lawrence", "Yevgeny Leonov", "Daniel DeVito"]
      },
      {
         "question_id" : 3,
+		"type" : 2,
         "question" : "Find the extra image.",
         "image_answers" : [
 			"https://raw.githubusercontent.com/AramKocharian/aramkocharian.github.io/master/mg/quiz01/question03/answers/image_answer_a.jpg",
@@ -23,61 +26,73 @@
      },
      {
         "question_id" : 4,
+		"type" : 3,
         "video_question" : "https://www.youtube.com/watch?v=kXYiU_JCYtU",
         "answers" : ["A-Test-4", "B-Test-4", "C-Test-4", "D-Test-4"]
      },
      {
         "question_id" : 5,
+		"type" : 0,
         "question" : "Test-5",
         "answers" : ["A-Test-5", "B-Test-5", "C-Test-5", "D-Test-5"]
      },
      {
         "question_id" : 6,
+		"type" : 0,
         "question" : "Test-6",
         "answers" : ["A-Test-6", "B-Test-6", "C-Test-6", "D-Test-6"]
      },
      {
         "question_id" : 7,
+		"type" : 0,
         "question" : "Test-7",
         "answers" : ["A-Test-7", "B-Test-7", "C-Test-7", "D-Test-7"]
      },
      {
         "question_id" : 8,
+		"type" : 0,
         "question" : "Test-8",
         "answers" : ["A-Test-8", "B-Test-8", "C-Test-8", "D-Test-8"]
      },
      {
         "question_id" : 9,
+		"type" : 0,
         "question" : "Test-9",
         "answers" : ["A-Test-9", "B-Test-9", "C-Test-9", "D-Test-9"]
      },
      {
         "question_id" : 10,
+		"type" : 0,
         "question" : "Test-10",
         "answers" : ["A-Test-10", "B-Test-10", "C-Test-10", "D-Test-10"]
      },
      {
         "question_id" : 11,
+		"type" : 0,
         "question" : "Test-11",
         "answers" : ["A-Test-11", "B-Test-11", "C-Test-11", "D-Test-11"]
      },
      {
         "question_id" : 12,
+		"type" : 0,
         "question" : "Test-12",
         "answers" : ["A-Test-12", "B-Test-12", "C-Test-12", "D-Test-12"]
      },
      {
         "question_id" : 13,
+		"type" : 0,
         "question" : "Test-13",
         "answers" : ["A-Test-13", "B-Test-13", "C-Test-13", "D-Test-13"]
      },
      {
         "question_id" : 14,
+		"type" : 0,
         "question" : "Test-14",
         "answers" : ["A-Test-14", "B-Test-14", "C-Test-14", "D-Test-14"]
      },
      {
         "question_id" : 15,
+		"type" : 0,
         "question" : "Test-15",
         "answers" : ["A-Test-15", "B-Test-15", "C-Test-15", "D-Test-15"]
      }
