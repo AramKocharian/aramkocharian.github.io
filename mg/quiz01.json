@@ -2,22 +2,23 @@
   "questions" : [
      {
         "question_id" : 1,
-        "question" : "Complete the sentence: 'I came, I saw, ...'",
+        "question" : "Complete the sentence: 'I came, I saw, ...'.",
         "answers" : ["I fell", "I lost", "I ran way", "I conquered"]
      },
      {
         "question_id" : 2,
-        "question" : "Test-2",
-        "answers" : ["A-Test-2", "B-Test-2", "C-Test-2", "D-Test-2"]
+        "question" : "Who is on the picture?",
+		"image_question" : "quiz01_image/question_image_id_2"
+        "answers" : ["Robert De Niro", "Martin Lawrence", "Yevgeny Leonov", "Daniel DeVito"]
      },
      {
         "question_id" : 3,
-        "question" : "Test-3",
-        "answers" : ["A-Test-3", "B-Test-3", "C-Test-3", "D-Test-3"]
+        "question" : "Find the extra image.",
+        "image_answers" : ["A-Test-3", "B-Test-3", "C-Test-3", "D-Test-3"]
      },
      {
         "question_id" : 4,
-        "question" : "Test-4",
+        "video_question" : "https://www.youtube.com/watch?v=kXYiU_JCYtU",
         "answers" : ["A-Test-4", "B-Test-4", "C-Test-4", "D-Test-4"]
      },
      {
