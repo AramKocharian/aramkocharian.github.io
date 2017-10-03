@@ -8,13 +8,18 @@
      {
         "question_id" : 2,
         "question" : "Who is on the picture?",
-		"image_question" : "quiz01_image/question_image_id_2"
+		"image_question" : "https://raw.githubusercontent.com/AramKocharian/aramkocharian.github.io/master/mg/quiz01/question02/image_question.jpg"
         "answers" : ["Robert De Niro", "Martin Lawrence", "Yevgeny Leonov", "Daniel DeVito"]
      },
      {
         "question_id" : 3,
         "question" : "Find the extra image.",
-        "image_answers" : ["A-Test-3", "B-Test-3", "C-Test-3", "D-Test-3"]
+        "image_answers" : [
+			"https://raw.githubusercontent.com/AramKocharian/aramkocharian.github.io/master/mg/quiz01/question03/answers/image_answer_a.jpg",
+			"https://raw.githubusercontent.com/AramKocharian/aramkocharian.github.io/master/mg/quiz01/question03/answers/image_answer_b.jpg",
+			"https://raw.githubusercontent.com/AramKocharian/aramkocharian.github.io/master/mg/quiz01/question03/answers/image_answer_c.jpg",
+			"https://raw.githubusercontent.com/AramKocharian/aramkocharian.github.io/master/mg/quiz01/question03/answers/image_answer_d.jpg"
+		]
      },
      {
         "question_id" : 4,
