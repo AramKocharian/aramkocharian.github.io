@@ -10,7 +10,7 @@
         "question_id" : 2,
 		"type" : 1,
         "question" : "Who is on the picture?",
-		"image_question" : "https://raw.githubusercontent.com/AramKocharian/aramkocharian.github.io/master/mg/quiz01/question02/image_question.jpg"
+		"image_question" : "https://raw.githubusercontent.com/AramKocharian/aramkocharian.github.io/master/mg/quiz01/question02/image_question.jpg",
         "answers" : ["Robert De Niro", "Martin Lawrence", "Yevgeny Leonov", "Daniel DeVito"]
      },
      {
