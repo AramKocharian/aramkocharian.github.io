@@ -28,7 +28,7 @@
         "question_id" : 4,
 		"type" : 3,
 		"question" : "Guess the music band.",
-        "video_question" : "https://www.youtube.com/watch?v=kXYiU_JCYtU",
+        "video_question" : "kXYiU_JCYtU",
         "answers" : ["Limp Bizkit", "Nickelback", "Skillet", "Linkin Park"]
      },
      {
